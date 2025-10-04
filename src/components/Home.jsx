@@ -24,10 +24,10 @@ const Home = () => {
           {typedName}
         </h1>
         <h2 className='text-3xl sm:text-5xl font-bold text-[#8892b0] py-3'>
-          SDE Intern at Zensar.
+          Software Engineer Trainee at Zensar.
         </h2>
         <p className='text-[#8892b0] py-3 max-w-[800px]'>
-        A driven and solutions-focused Computer Science student in my final year, I’m passionate about building scalable tech that solves real-world problems. With over 1,000 LeetCode problems solved and a 370+ day streak, I’ve developed strong expertise in data structures, algorithms, and systems thinking—earning a spot among the top 10K competitive programmers globally. I have a rating of 1350+ on Codeforces.
+        A passionate Software Engineer with a strong foundation in Computer Science and a drive to build scalable, efficient, and impactful digital solutions. At Zensar Technologies, I design and engineer enterprise-grade software using C#, ASP.NET, React.js, Docker, AWS, Terraform, and CI/CD pipelines — automating workflows, integrating complex systems, and improving operational efficiency across teams. My work has consistently contributed to faster deployments and greater scalability in production environments.
         </p>
         <div>
           <a href='tel:+919699114832'>
